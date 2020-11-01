@@ -1,0 +1,9 @@
+G:\Repositories\IOLChallenge\CodingChallenge.Data\bin\Debug\netstandard2.0\CodingChallenge.Data.deps.json
+G:\Repositories\IOLChallenge\CodingChallenge.Data\bin\Debug\netstandard2.0\CodingChallenge.Data.dll
+G:\Repositories\IOLChallenge\CodingChallenge.Data\bin\Debug\netstandard2.0\CodingChallenge.Data.pdb
+G:\Repositories\IOLChallenge\CodingChallenge.Data\obj\Debug\netstandard2.0\CodingChallenge.Data.csprojAssemblyReference.cache
+G:\Repositories\IOLChallenge\CodingChallenge.Data\obj\Debug\netstandard2.0\CodingChallenge.Data.csproj.CoreCompileInputs.cache
+G:\Repositories\IOLChallenge\CodingChallenge.Data\obj\Debug\netstandard2.0\CodingChallenge.Data.AssemblyInfoInputs.cache
+G:\Repositories\IOLChallenge\CodingChallenge.Data\obj\Debug\netstandard2.0\CodingChallenge.Data.AssemblyInfo.cs
+G:\Repositories\IOLChallenge\CodingChallenge.Data\obj\Debug\netstandard2.0\CodingChallenge.Data.dll
+G:\Repositories\IOLChallenge\CodingChallenge.Data\obj\Debug\netstandard2.0\CodingChallenge.Data.pdb
