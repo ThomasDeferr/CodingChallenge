@@ -7,7 +7,7 @@ using CodingChallenge.Data.Interfaces;
 
 namespace CodingChallenge.Data.Classes.GeometricInfos
 {
-    public class GeometricInfoPortuguese : GeometricInfo
+    public class GeometricInfoPortuguese : GeometricInfoLanguage
     {
         public GeometricInfoPortuguese() {}
 

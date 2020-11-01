@@ -6,7 +6,7 @@ using CodingChallenge.Data.Classes.GeometricForms;
 
 namespace CodingChallenge.Data.Interfaces
 {
-    public abstract class GeometricInfo
+    public abstract class GeometricInfoLanguage
     {
         public string Print(List<IGeometricForm> forms)
         {
